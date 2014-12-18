@@ -13,6 +13,8 @@ mvn test
 
 <h1>Problem:</h1>
 
+I opened a new issue in the testng project for this problem: https://github.com/cbeust/testng/issues/581
+
 <h2>Output:</h2>
 
 ``` bash
