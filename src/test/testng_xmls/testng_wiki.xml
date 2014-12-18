@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Wiki">
+
+  <test name="ParameterTestWiki">
+    <classes>
+      <class name="com.chillinPanda.testng.tests.ParameterErrorDemoWiki"></class>
+    </classes>
+  </test>
+  
+</suite>

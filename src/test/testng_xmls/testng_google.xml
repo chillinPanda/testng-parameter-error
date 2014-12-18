@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Google">
+
+  <test name="ParameterTestGoogle">
+    <classes>
+      <class name="com.chillinPanda.testng.tests.ParameterErrorDemoGoogle"></class>
+    </classes>
+  </test>
+  
+</suite>

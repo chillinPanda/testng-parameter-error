@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Demo" parallel="tests">
+
+  <suite-files>
+    
+    <suite-file path="src/test/testng_xmls/testng_wiki.xml">
+      <parameter name="url" value="www.wikipedia.org" />
+    </suite-file>
+    
+    <suite-file path="src/test/testng_xmls/testng_google.xml">
+      <parameter name="url" value="www.google.com" />
+    </suite-file>
+    
+  </suite-files>
+
+</suite>
